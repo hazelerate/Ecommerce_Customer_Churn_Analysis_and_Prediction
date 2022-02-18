@@ -1,1 +1,1 @@
-# Ecommerce_Customer_Churn_Analysis_and_Prediction
+# Ecommerce_Customer_Retention_Analysis_and_Prediction
